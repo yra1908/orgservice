@@ -1,0 +1,10 @@
+/home/yurii/work/simpleApp/orgservice/src/main/java/pinc/org/service/orgservice/model/Privilege.java
+/home/yurii/work/simpleApp/orgservice/src/main/java/pinc/org/service/orgservice/model/Client.java
+/home/yurii/work/simpleApp/orgservice/src/main/java/pinc/org/service/orgservice/repo/PhysicianRepo.java
+/home/yurii/work/simpleApp/orgservice/src/main/java/pinc/org/service/orgservice/repo/ClientRepo.java
+/home/yurii/work/simpleApp/orgservice/src/main/java/pinc/org/service/orgservice/OrgserviceApplication.java
+/home/yurii/work/simpleApp/orgservice/src/main/java/pinc/org/service/orgservice/model/Patient.java
+/home/yurii/work/simpleApp/orgservice/src/main/java/pinc/org/service/orgservice/model/ProviderGroup.java
+/home/yurii/work/simpleApp/orgservice/src/main/java/pinc/org/service/orgservice/model/Physician.java
+/home/yurii/work/simpleApp/orgservice/src/main/java/pinc/org/service/orgservice/model/Organization.java
+/home/yurii/work/simpleApp/orgservice/src/main/java/pinc/org/service/orgservice/model/Role.java
